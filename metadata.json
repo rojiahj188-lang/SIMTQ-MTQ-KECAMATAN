@@ -1,0 +1,6 @@
+{
+  "name": "SIMTQ - MTQ Ke-XXXII Kecamatan Gerung Lombok Barat",
+  "description": "Aplikasi Musabaqah Tilawatil Qur'an (MTQ) Ke-XXXII Tingkat Kecamatan Gerung, Kabupaten Lombok Barat, NTB: pendaftaran peserta kafilah, kode cabang lomba, penilaian dewan hakim, live scoreboard real-time, dan piagam penghargaan otomatis tersertifikasi.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
